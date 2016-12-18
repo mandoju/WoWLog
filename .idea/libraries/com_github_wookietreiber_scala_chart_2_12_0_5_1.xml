@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.wookietreiber:scala-chart_2.12:0.5.1" type="repository">
+    <properties maven-id="com.github.wookietreiber:scala-chart_2.12:0.5.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-chart_2.12-0.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
